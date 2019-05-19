@@ -1,0 +1,6 @@
+BuildingEscape/Content/
+BuildingEscape/Intermediate/
+*.db
+BuildingEscape/Saved/
+BuildingEscape/Binaries/
+BuildingEscape/.vs/
