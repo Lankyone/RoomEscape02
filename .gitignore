@@ -1,6 +1,8 @@
-BuildingEscape/Content/
+BuildingEscape/Content/StarterContent
 BuildingEscape/Intermediate/
 *.db
 BuildingEscape/Saved/
 BuildingEscape/Binaries/
 BuildingEscape/.vs/
+BuildingEscape/Content/AnimStarterPack/
+BuildingEscape/Content/FabricCollection/
